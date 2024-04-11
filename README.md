@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @kirazoro
+- I Love working with
+- JAVA PYTHON C
 - 👀 I’m interested in Machine Learning and Data Analytics
 - 🌱 I’m currently learning Machine Learning.
 - 💞️ I’m looking to collaborate on projects having different backgrounds.
