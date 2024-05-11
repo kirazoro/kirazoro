@@ -4,7 +4,7 @@
 - 👀 I’m interested in Machine Learning and Data Analytics
 - 🌱 I’m currently learning Machine Learning.
 - 💞️ I’m looking to collaborate on projects having different backgrounds.
-- 📫 How to reach me ...
+- 📫 How to reach me ... chitrangibhatnagar@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: As a computer science student eagerly seeking internships and collaborative projects, I'm on a mission to master the art of version control with Git.
 -              Just like debugging code, I believe in debugging life, one commit at a time! 💻 Let's collaborate and create something awesome together! 
