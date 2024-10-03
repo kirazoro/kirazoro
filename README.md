@@ -6,7 +6,7 @@ AI ML developer
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [chitrangibhatnagar@gmail.com](mailto:chitrangibhatnagar@gmail.com)
-* 🧠  I'm learning Flask, FastAPI, Prompt Engineering.
+* 🧠  I'm learning AWS,MLOps currently.
 * 🤝  I'm open to collaborating on Machine learning and data science
 * ⚡  I bring a ton of energy and enthusiasm to my projects! (Thanks, ADHD!)
 
