@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 AI ML developer
 ---------------
 
-* 🌍  I'm based in India
-* ✉️  You can contact me at [chitrangibhatnagar@gmail.com](mailto:chitrangibhatnagar@gmail.com)
-* 🧠  I'm learning AWS,MLOps currently.
-* 🤝  I'm open to collaborating on Machine learning and data science
-* ⚡  I bring a ton of energy and enthusiasm to my projects! (Thanks, ADHD!)
+* 🌍 Based in India
+* ✉️ Reach me at chitrangibhatnagar@gmail.com
+* 🧠 Currently exploring AWS and MLOps
+* 🤝 Open to collaborations in machine learning and data science, with a keen interest in working on large language models
+* ⚡ Passionate, energetic, and driven—my ADHD fuels my creativity and enthusiasm for every project I take on!
 
 ### Skills
 
